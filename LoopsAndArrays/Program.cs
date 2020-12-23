@@ -6,7 +6,12 @@ namespace LoopsAndArrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            //Conditionals.RunConditionals();
+
+            //SwitchConditionals.RunSwitchConditionals();
+
+            Loops.RunLoops();
+
+        }   
     }
 }
