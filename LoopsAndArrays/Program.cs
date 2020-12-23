@@ -10,7 +10,10 @@ namespace LoopsAndArrays
 
             //SwitchConditionals.RunSwitchConditionals();
 
-            Loops.RunLoops();
+            //Loops.RunLoops();
+
+            Arrays.RunArrays();
+
 
         }   
     }
