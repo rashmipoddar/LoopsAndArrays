@@ -12,8 +12,9 @@ namespace LoopsAndArrays
 
             //Loops.RunLoops();
 
-            Arrays.RunArrays();
+            //Arrays.RunArrays();
 
+            Functions.RunFunctions();
 
         }   
     }
